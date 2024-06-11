@@ -1,6 +1,6 @@
 # housing-price-prediction
 
-This project aims to predict housing prices using various machine learning models. The data and models are contained in the `housing-price-prediction.ipynb` Jupyter Notebook.
+This project aims to predict housing prices. The data and models are contained in the `housing-price-prediction.ipynb` Jupyter Notebook.
 
 ## Introduction
 The goal of this project is to analyze housing data and build predictive models that can estimate the price of a house based on its features. This can be useful for real estate businesses, home buyers, and other stakeholders.
